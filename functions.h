@@ -7,5 +7,4 @@ double sigmoid(double z);			// Sigmoid/logistic function
 
 
 
-
 #END FUNCTIONS_H
