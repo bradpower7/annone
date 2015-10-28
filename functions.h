@@ -1,5 +1,5 @@
-#IFNDEF FUNCTIONS_H
-#DEF FUNCTIONS_H
+#ifndef FUNCTIONS_H
+#define FUNCTIONS_H
 
 
 double sigmoid(double z);			// Sigmoid/logistic function
@@ -7,4 +7,4 @@ double sigmoid(double z);			// Sigmoid/logistic function
 
 
 
-#END FUNCTIONS_H
+#endif

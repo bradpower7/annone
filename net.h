@@ -25,7 +25,7 @@ class Net{
 
 		void makeWeights();
 
-		std::vector<std::vector<std::vector<double>>> m_weights;    // A vector for each weight, attached to each output node, attached to each layer
+		//std::vector<std::vector<std::vector<double>>> m_weights;    // A vector for each weight, attached to each output node, attached to each layer
 
 
 
